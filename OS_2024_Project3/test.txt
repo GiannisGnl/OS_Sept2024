@@ -1,0 +1,125 @@
+Introduction: In recent times, there has been a notable increase in the
+demand for accreditations, driven by their essential role in recognizing diplomas,
+elevating the quality of higher education, facilitating student mobility, enabling
+the pursuit of multiple degrees, and influencing university rankings. This surge
+in demand reflects the evolving landscape of higher education in a world that is
+becoming progressively interconnected and competitive.
+Methods: This paper presents a comprehensive methodology for accrediting
+study programs in French higher education institutions worldwide that are
+seeking the Accreditation Board for Engineering and Technology (ABET)
+accreditation. ABET accreditation is a globally recognized organism of quality for
+education programs in engineering, computer science, and related fields. The
+methodology proposed in this paper focuses on aligning ABET’s requirements
+and standards with the specific context of the French Education System (FES).
+It provides clear guidelines and practical steps for higher education institutions
+to effectively navigate the accreditation process. The methodology covers the
+verification of existing study programs, identification of areas for improvement,
+implementation of corrective actions, and continuous progress monitoring. It
+emphasizes the importance of continuous improvement and aligning programs
+with the Program Educational Objectives (POEs). Concrete examples and best
+practices are shared to illustrate successful implementation of the methodology
+developed based on the example of the engineering college programs at our
+university.
+Results and discussion: The results obtained in this case study demonstrate the
+applicability and effectiveness of this approach within a specific educational
+context. The approach presented in this contribution can serve as a model
+for other countries seeking to adapt ABET accreditation requirements to their
+own higher education systems, further promoting diversity and openness. This
+reinforces the credibility of the methodology and paves the way for its use in
+other institutions and programs that operate within similar systems.
+The history of accreditation in higher education and its relation
+with quality assurance (QA), particularly in the field of engineering,
+can be traced back to the early 20th century when the rise of
+industrialization and technological advancements led to a growing
+demand for qualified engineers. In 1932, the establishment of
+the Accreditation Board for Engineering and Technology (ABET)
+(ABET, 2023) in the United States marked a significant milestone
+in the development of accreditation for engineering programs.
+ABET was among the pioneering organizations to establish
+stringent educational standards for engineering schools, ensuring
+that graduates met industry requirements. This model gradually
+extended its influence worldwide, leading to the creation of similar
+bodies in other countries. In France, the “Commission des Titres
+d’Ingénieur” (Cti) was established in 1934 (Cti, n.d.) with the
+purpose of accrediting engineering education programs, thereby
+ensuring their quality and compliance with educational standards.
+The NAAB (National Architectural Accrediting Board), founded
+in 1940 (NAAB et al., no date), is the renowned accreditation
+body specialized in accrediting architectural programs in the
+United States. In Germany, ASIIN “Arbeitsgemeinschaft für
+Spitzentechnik, Innovation und Qualitätsmanagement in der Lehre
+e.V.” (Association for Excellence in Technology, Innovation,
+and Quality Management in Education), was founded in 1999
+(ASIIN, no date), specializes in evaluating programs in engineering,
+computer science, and natural sciences.
+The Bologna Process, initiated in 1999 (Bologna Declaration,
+2004; Bologna Working Group on Qualifications Frameworks,
+2005), has reshaped accreditation in European higher education by
+establishing common standards and promoting mutual recognition
+of degrees. This has resulted in more transparent and consistent
+accreditation mechanisms, thus enhancing the quality of academic
+programs. Moreover, the Bologna Process has facilitated student
+and researcher mobility, emphasizing the need for international
+recognition of degrees and accreditation tailored to these
+challenges. As a result, it has had a profound influence on the
+history of accreditation in Europe by promoting the credibility
+and relevance of degrees across the continent. In 2005, EUR-ACE
+(European Accredited Engineer) was established as an initiative
+aimed at harmonizing the accreditation of engineering programs
+across Europe (Haug, 2003; EUR-ACE, 2005). This initiative was
+launched in response to the need to facilitate the recognition
+and mobility of engineering degrees across European borders,
+thereby promoting the quality and compatibility of engineering
+programs throughout the region (Augusti, 2005, 2006, 2007). EURACE is managed by the European Network for Accreditation
+of Engineering Education (ENAEE) (European Association for
+Quality Assurance in Higher Education (ENQA), 2005). Its goal is
+to create a European standard for the accreditation of engineering
+programs (ENAEE, no date).
+Accreditation in higher education is a vital process aimed
+at ensuring the quality of educational institutions and academic
+programs, particularly in the field of engineering (Augusti, 2005). It
+allows higher education institutions to showcase their commitment
+to academic excellence and compliance with established standards
+and criteria (Patil and Codner, 2007). Accreditation involves a
+thorough evaluation of programs, infrastructure, and available
+resources to ensure that students receive a high-quality and
+relevant education. In the context of engineering programs, this
+validation is critical, as it guarantees that graduates possess the
+skills and knowledge required to succeed in an ever-evolving
+field (Patil and Codner, 2007). While it initially started as a
+straightforward concept, it has evolved into a complex evaluative
+tool (Young, 1983). Accreditation, or external evaluation, continues
+to be a potent means of ensuring quality and can be leveraged to
+enhance international recognition of educational qualifications and
+professional experience (Patil, 2005), as well as to facilitate national
+QA systems.
+By surveying the reference frameworks of various accreditation
+organizations (ASIIN, no date; ABET, 2022b; CTI, 2022), it is
+observed that criteria are based on three fundamental pillars,
+regardless of the accrediting body or region. The first pillar
+is the student or learner, who occupies a central role in the
+accreditation process. Educational programs are designed to meet
+their needs and develop the necessary skills (Young, 1983; Patil,
+2005). The second pillar is the program itself, which encompasses
+the skills, knowledge, and pedagogical approaches aimed at
+educating students. Finally, the third pillar is the school or
+educational institution, which houses the first two pillars and
+plays a crucial role in facilitating and overseeing the educational
+process. Accreditation aims to ensure that these three pillars
+work in harmony, thereby ensuring the quality of education
+and preparing students for their future, especially in the field
+of engineering. Accreditation standards and criteria are designed
+to assess the performance of these three essential pillars. The
+purposes of accreditation encompass various aspects, including
+accountability to students and society, the assurance of educational
+quality, the promotion of continuous program improvement, the
+professional recognition of graduates, the facilitation of student
+mobility, and the enhancement of institutional competitiveness
+(Patil and Codner, 2007). Accreditation standards and criteria
+are established based on the assessment of diverse elements
+such as educational objectives, institutional resources, faculty
+quality, learning infrastructure, student outcomes, governance, and
+institutional responsibility. While these standards may vary from
+one region to another and from one accrediting body to another,
+their common objective is to ensure the quality of higher education
+and address the evolving needs of society.
